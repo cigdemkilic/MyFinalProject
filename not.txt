@@ -1,0 +1,6 @@
+abstarct klasörün içinde: abstract class,interface, base class vardýr. Yani soyutlar buradadýr. Absractlarýn içine referans tutucularý koyacaðýz.
+concrete klasörün içinde ise somutlar vardýr.
+
+LINQ ile veri sorgulamaya giriþ
+LINQ ile ileri veri sorgulama teknikleri
+Katmanlý yapýya giriþ
